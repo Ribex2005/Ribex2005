@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ribex2005
 - 👀 I’m interested in coding, writing and just learning new thingss. 
-- 🌱 I’m currently learning java, python, c and c++.
+- 🌱 I’m currently learning java, python and C.
 - 📫 How to reach me riddhimabisht05@gmail.com
 - 😄 Pronouns: she/her
 
