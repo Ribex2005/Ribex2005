@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Ribex2005
-- 👀 I’m interested in coding, writing and just learning new thingss. 
-- 🌱 I’m currently learning java, python and C.
-- 📫 How to reach me riddhimabisht05@gmail.com
-- 😄 Pronouns: she/her
+# Hi, I'm @Ribex2005 👋
+
+## About Me
+- 💻 Interested in software development, artificial intelligence, and problem solving.
+- 🌱 Currently learning Java, Python, and C.
+- 🚀 Building projects in machine learning, Java, and full-stack development.
 
 
 <!---
