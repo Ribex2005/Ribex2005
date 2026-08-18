@@ -1,4 +1,4 @@
-# Hi, I'm @Ribex2005👋
+# Hi, I'm Riddhima👋
 
 ## About Me
 
