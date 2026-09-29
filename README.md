@@ -24,7 +24,7 @@ Custom Hindi stemming approach using rule-based suffix matching to reduce Hindi 
 
 ## Technologies
 
-**Languages:** Java, Python, C  
+**Languages:** Java, Python, C , SQL
 **Machine Learning:** TensorFlow, Keras, Scikit-learn  
 **Backend:** Spring Boot, Django  
 **Concepts:** Data Structures & Algorithms, OOP, Machine Learning, NLP
